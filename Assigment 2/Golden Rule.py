@@ -3,7 +3,7 @@
 ## == NOTE: PLEASE READ THIS PART FIRST =================================================================##
 ## ======================================================================================================##
 ## <HUMAN WRITTEN COMMENTS>                                                                              ##
-## Testing the Neural Networks Training Golden Rule                                                      ##
+## Testing the Neural Networks Training Golden Rules                                                     ##
 ##   Steps:                                                                                              ##
 ##     0 — Single-Sample Sanity Check (Overfitting on a single example)                                  ##
 ##     1 — Sanity Check (Overfitting on a small batch)                                                   ##
@@ -17,7 +17,7 @@
 ## so I believe that no meaningfull comments are required here side, so i left the LLM's comments        ##
 ##                                                                                                       ##
 ## I WILL HAVE A NOTE FLAG BEFORE EVERY IMPORTANT PIECE OF COMMENT, SO YOU CAN DIRECTLY NAGIVATE TO      ##
-## LINES WITH "NOTE: PLEASE READ THIS PART" BEFORE THEM with `CTRL+F`                                     ##
+## LINES WITH "NOTE: PLEASE READ THIS PART" BEFORE THEM with `CTRL+F`                                    ##
 ## The test will be conducted on the CIFAR-100 Dataset                                                   ##
 ## <END OF HUMAN WRITTEN COMMENTS>                                                                       ##
 ###======================================================================================================##
